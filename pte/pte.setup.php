@@ -19,4 +19,10 @@ Lock_members=12345AW
 [END_COT_EXT_CONFIG]
 ==================== */
 
+/**
+ * @package pte
+ * @author Dmitri Beliavski
+ * @copyright (c) 2024 sed.by
+ */
+
 defined('COT_CODE') or die('Wrong URL');

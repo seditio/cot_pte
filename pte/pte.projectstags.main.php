@@ -6,12 +6,10 @@ Hooks=projectstags.main
 ==================== */
 
 /**
-* @package projects_toexpire
-* @version 1.00
-* @author Dmitri Beliavski
-* @copyright Copyright (c) 2024 Dmitri Beliavski
-* @license BSD
-*/
+ * @package pte
+ * @author Dmitri Beliavski
+ * @copyright (c) 2024 sed.by
+ */
 
 defined('COT_CODE') or die('Wrong URL.');
 

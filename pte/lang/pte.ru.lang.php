@@ -1,11 +1,11 @@
 <?php
 /**
-* PTE Plugin / RU Locale
-*
-* @package pte
-* @author Dmitri Beliavski
-* @copyright (c) 2024 sed.by
-*/
+ * RU Locale for the PTE Plugin
+ *
+ * @package pte
+ * @author Dmitri Beliavski
+ * @copyright (c) 2024 sed.by
+ */
 
 defined('COT_CODE') or die('Wrong URL');
 
